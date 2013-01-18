@@ -1,7 +1,7 @@
 Description
 -----------
 
-Allows weechat users to bestow karma in campfire chatrooms, nerdbot-style
+Allows weechat users to bestow karma in campfire chatrooms, [nerdbot-style](https://github.com/bignerdranch/nerdbot/blob/master/scripts/karma.coffee).
 
 Installation 
 ------------
@@ -17,3 +17,4 @@ Usage
 From within weechat in the core buffer
 
     $ /help karma
+    $ /karma user_nick karma_amount_as_integer
